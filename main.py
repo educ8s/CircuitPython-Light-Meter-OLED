@@ -16,7 +16,7 @@ def displayBar(previousVoltage, voltage):
         for x in range (40, 50):
             display.line(length, x, previousLength, x, 0)
 
-def get_voltage(pin):
+def getVoltage(pin):
     return (pin.value * 3.3) / 65536
 
 def voltageToPixel(voltage):
@@ -37,7 +37,7 @@ display.text("LIGHT INTENSITY", 15, 0, 1)
 
 while True:
     previousVoltage = voltage
-    voltage = round(get_voltage(analog_in),2)
+    voltage = round(getVoltage(analog_in),2)
     if(voltage != previousVoltage):
         display.text(voltageToPercent(previousVoltage), 42, 20, 0)
         display.text(voltageToPercent(voltage), 42, 20, 1)
