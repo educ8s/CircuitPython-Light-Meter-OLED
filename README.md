@@ -27,7 +27,7 @@ The Seeeduino Xiao board comes with the Arduino bootloader pre-loaded when you b
   <img src="install_circuitpython.jpg" alt="How to install CircuitPython" width="800">
 </p>
 
-[Watch on YouTube](https://www.youtube.com/watch?v=1GKF9u7pVgs)
+🎥 [Watch the video on YouTube](https://www.youtube.com/watch?v=1GKF9u7pVgs)
 
 
 # Credits & Thanks
