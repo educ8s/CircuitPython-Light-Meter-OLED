@@ -19,6 +19,12 @@ This is a simple Light Meter using Seeeduino Xiao board, a photoresistor and an 
 
 💖 Full disclosure: All of the links above are affiliate links. I get a small percentage of each sale they generate. Thank you for your support!
 
+# How to install CircuitPython on the Seeeduino Xiao
+
+The Seeeduino Xiao board comes with the Arduino bootloader pre-loaded when you buy it. If you want to program it using CircuitPython you have to load the CircuitPython bootloader to it. Watch the following video to find out how to do it.
+
+
+
 # Credits & Thanks
 
   - Kudos to [Adafruit Industries](https://github.com/adafruit) for being the creator of the display libraries without which this project would not exist.
