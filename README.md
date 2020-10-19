@@ -29,6 +29,12 @@ The Seeeduino Xiao board comes with the Arduino bootloader pre-loaded when you b
 
 🎥 [Watch the video on YouTube](https://www.youtube.com/watch?v=1GKF9u7pVgs)
 
+# Schematic Diagram
+
+<p align="center">
+  <img src="SchematicXiao.jpg" alt="Scematic Diagram" width="640">
+</p>
+
 
 # Credits & Thanks
 
