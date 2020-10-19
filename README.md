@@ -32,7 +32,7 @@ The Seeeduino Xiao board comes with the Arduino bootloader pre-loaded when you b
 # Schematic Diagram
 
 <p align="center">
-  <img src="SchematicXiao.jpg" alt="Scematic Diagram" width="640">
+  <img src="Schematic.png" alt="Scematic Diagram" width="640">
 </p>
 
 
