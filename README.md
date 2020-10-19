@@ -1,7 +1,9 @@
 # CircuitPython Light-Meter
 This is a simple Light Meter using Seeeduino Xiao board, a photoresistor and an OLED SSD1306 display.
 
-![](demo.gif)
+<p align="center">
+  <img src="demo.jpg" alt="CircuitPython Light Meter" width="1280">
+</p>
 
 # Parts used
 
