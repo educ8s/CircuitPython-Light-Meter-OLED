@@ -5,6 +5,8 @@ This is a simple Light Meter using Seeeduino Xiao board, a photoresistor and an 
   <img src="demo.jpg" alt="CircuitPython Light Meter" width="1280">
 </p>
 
+🎥 [Watch the video on YouTube](https://www.youtube.com/watch?v=zjhoc0t7I_0)
+
 # Parts used
 
 🛒 Arduino Xiao: http://educ8s.tv/part/xiao
